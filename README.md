@@ -1,4 +1,4 @@
-</div>
+<div align="center">
 # Roshan Gaikwad
 
 **Student · Aspiring AI Engineer**
