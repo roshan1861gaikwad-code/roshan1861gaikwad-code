@@ -69,3 +69,34 @@ A learning project focused on Physics, Chemistry, and Mathematics, designed to m
 <div align="center">
 <sub>Learning in public, one project at a time.</sub>
 </div>
+
+## My AI Engineer Roadmap
+
+```mermaid
+flowchart TD
+    A["Python Fundamentals"] --> B["Mathematics for AI"]
+    B --> C["Data Analysis"]
+    C --> D["Machine Learning"]
+    D --> E["Deep Learning"]
+    E --> F["Generative AI and LLMs"]
+    F --> G["AI Engineering"]
+
+    A -.-> P1["Python Projects"]
+    C -.-> P2["Data Projects"]
+    D -.-> P3["ML Projects"]
+    F -.-> P4["Build AI Apps"]
+
+    P1 --> PORT["Portfolio"]
+    P2 --> PORT
+    P3 --> PORT
+    P4 --> PORT
+
+    classDef learning fill:#14253A,stroke:#38BDF8,color:#FFFFFF
+    classDef projects fill:#123B3B,stroke:#5EEAD4,color:#FFFFFF
+    classDef goal fill:#164E63,stroke:#67E8F9,color:#FFFFFF
+
+    class A,B,C,D,E,F learning
+    class P1,P2,P3,P4 projects
+    class G,PORT goal
+```
+
