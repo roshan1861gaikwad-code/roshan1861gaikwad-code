@@ -1,4 +1,5 @@
 <div align="center">
+
 # Roshan Gaikwad
 
 **Student · Aspiring AI Engineer**
@@ -51,6 +52,11 @@ A learning project focused on Physics, Chemistry, and Mathematics, designed to m
 - Prefer working features over impressive-sounding claims.
 - Document setup instructions and known issues.
 - Improve projects in small, testable steps.
+
+## GitHub Activity
+
+<!-- Optional: Add a contribution/statistics card after verifying that it renders correctly.
+     Avoid treating third-party statistics as a measure of engineering skill. -->
 
 <div align="center">
 
