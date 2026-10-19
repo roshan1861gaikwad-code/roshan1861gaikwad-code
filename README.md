@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/profile-banner.svg" alt="Roshan Gaikwad — Student and Aspiring AI Engineer" width="100%">
+
+</div>
+
+<div align="center">
+
 # Roshan Gaikwad
 
 **Student · Aspiring AI Engineer**
