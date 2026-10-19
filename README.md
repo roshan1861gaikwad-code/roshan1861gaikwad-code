@@ -53,8 +53,6 @@ A learning project focused on Physics, Chemistry, and Mathematics, designed to m
 - Document setup instructions and known issues.
 - Improve projects in small, testable steps.
 
-## GitHub Activity
-
 <!-- Optional: Add a contribution/statistics card after verifying that it renders correctly.
      Avoid treating third-party statistics as a measure of engineering skill. -->
 
@@ -67,7 +65,6 @@ A learning project focused on Physics, Chemistry, and Mathematics, designed to m
 ---
 
 <div align="center">
-<sub>Learning in public, one project at a time.</sub>
 </div>
 
 ## My AI Engineer Roadmap
